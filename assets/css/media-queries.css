@@ -89,4 +89,4 @@ assets/scss/media-queries.scss:121
 body:before {
   white-space: pre;
   font-family: monospace;
-  content: "Syntax error: Undefined variable: \"$gray-darkest\".\A         on line 121 of assets/scss/media-queries.scss\A \A 116:       top: 42px;\A 117:       right: 0;\A 118:       left: 0;\A 119:       width: 100%;\A 120:       padding: 20px 0;\A 121:       background: rgba($gray-darkest,.98);\A 122:       border-bottom: 1px solid rgba(255,255,255,.15);\A 123: \A 124:       &.visible {\A 125:         display: block;\A 126:       }"; }
+  content: "Syntax error: Undefined variable: \"$gray-darkest\".\A         on line 121 of assets/scss/media-queries.scss\A \A 116:       top: 42px;\A 117:       right: 0;\A 118:       left: 0;\A 119:       width: 100%;\A 120:       padding: 20px 0;\A 121:       background: rgba($gray-light,.98);\A 122:       border-bottom: 1px solid rgba(255,255,255,.15);\A 123: \A 124:       &.visible {\A 125:         display: block;\A 126:       }"; }
